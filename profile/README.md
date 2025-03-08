@@ -1,5 +1,7 @@
 # notvox nodboxes
-**(noun)** : _trolling with rich presence_
+**(noun)** : _Trolling with affluent presence._  
+(See: “rich” in economic contexts, “affluent” in the sense of abundance, and “presence” as defined within “Rich Presence” as implemented in Discord. 
+For further clarification-[^1])
 
 > Sitting on a cornflake
 > 
@@ -119,3 +121,6 @@ What's up?
 **Auth is up.**  
 Fiddling while publicking and working towards packaging for deb + homebrew broke shit lol, as it always does, and so I need to fix it but... keine zeit
 
+
+[^1]: Cross-reference “trolling” with considerations of digital performance art.
+Interpretive approaches vary. Some argue that trolling constitutes reactive dramaturgy, while others frame it as an emergent behavior within networked social systems. No consensus exists. 

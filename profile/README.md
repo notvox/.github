@@ -13,15 +13,18 @@
 > 
 > You let your face grow long
 
-Reminiscing on _Walrus_, John Lennon recounted being chuffed by some student fan mail out of Quarry Bank: a literature class at the school had taken up the folly of trying to analyze, interpret --- find meaning --- in Beatles lyrics. Lennon of course was privy to his process but these students were not:
-> "I’ve had tongue in cheek all along – all of them had tongue in cheek. Just because other people see depths of whatever in it…What does it really mean, ‘I am the eggman’? It could have been ‘the pudding basin,’ for all I care. It’s not that serious.”
+Reminiscing on _Walrus_, John Lennon recounted being chuffed by some student fan mail out of Quarry Bank: a literature class at the school had taken up the folly of trying to analyze, interpret --- divine meaning --- out of Beatles lyrics.  
+
+Lennon of course was privy to his process but these students were not:
+> "I’ve had tongue in cheek all along – all of them had tongue in cheek. Just because other people see depths of whatever in it…  
+> What does it really mean, ‘I am the eggman’? It could have been ‘the pudding basin,’ for all I care. It’s not that serious.”
 
 
-## ~~what~~ _why_ is this?
+## What?
 Just a gag, really.
 
-Some time ago a person took to commenting on the music I listen to which shows up in rich presence on discord.
-I have rather ...eclectic? music tastes, and a penchant for darkness in music (I was 'trained classically' on the late romantics, after all, and consider myself a mahlerian above all else).
+_Some time ago_ a person took to commenting on the music I listen to which shows up in rich presence on discord.
+I have rather ...eclectic? music tastes, and a penchant for darkness in music (I was 'trained classically' on the late romantics, after all, and consider myself a Mahlerian above all else).
 
 Whether they simply enjoyed stirring up drama or were frankly concerned, sometimes taste is just taste and listening has no subtext; trying to extrapolate a person's state of mind based on their listening habits is inane and teeters on delusional, if you ask me.
 
@@ -72,23 +75,24 @@ This command:
 
 
 ### Why Am I Now Publicking this?
-Up to you to interpret ;)
+Up to you to interpret ;)  
+_Sapient sat._
 
-A poem:
+### nota bene; A poem:
 
 > ### **Once upon a Jukebox**  
 > Once an acquaintance  
 > A person Matt knew  
 > Took up a strange habit—  
-> watching songs passing through  
+> watching sounds pass through.  
 >   
-> A digital specter,  
-> A quiet observer,  
+> Digital specter,  
+> Quiet observer,  
 > Tracking not `echoes`  
-> but chords, attributing fervor.  
+> but chords, giving fervor?  
 >   
-> Each note, a confession,  
-> Each album, a clue—  
+> Each note a confession,  
+> Each album a clue—  
 > A detective of playlists  
 > Interpreting mood?  
 >   
@@ -99,7 +103,7 @@ A poem:
 >   
 > But this jukebox of life  
 > Is never so plain,  
-> Some days it's *just* Cohen,  
+> Some days it's _just_ Cohen,  
 > Some days Sugar Ray.  
 >   
 > So let them decode,  
@@ -108,3 +112,10 @@ A poem:
 > Are no friend of mine.
 >
 > mfw
+
+### Note for the (particularly) Observant
+Basically no code pushed?  
+What's up?  
+**Auth is up.**  
+Fiddling while publicking and working towards packaging for deb + homebrew broke shit lol, as it always does, and so I need to fix it but... keine zeit
+

@@ -123,4 +123,4 @@ Fiddling while publicking and working towards packaging for deb + homebrew broke
 
 
 [^1]: Cross-reference “trolling” with considerations of digital performance art.
-Interpretive approaches vary. Some argue that trolling constitutes reactive dramaturgy, while others frame it as an emergent behavior within networked social systems. No consensus exists. 
+Interpretive approaches vary. Some argue that trolling constitutes reactive dramaturgy, while others frame it as an emergent behavior within networked social systems. No consensus exists. May as well scroll back up now if you clicked the footnote ;)

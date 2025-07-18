@@ -70,14 +70,9 @@ Each NodBox is just a fedora server 41 instance which,
 > Let them divine—  
 > The secrets of shuffle  
 > Are no friend of mine.
->
-> mfw
 
-### Note for the (particularly) Observant
-Basically no code pushed?  
-What's up?  
-**Auth is up.**  
-Fiddling while publicking and working towards packaging for deb + homebrew broke shit lol, as it always does, and so I need to fix it but... keine zeit
+- mfw
+
 
 
 [^1]: Cross-reference “trolling” with considerations of digital performance art.

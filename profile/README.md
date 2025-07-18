@@ -35,50 +35,8 @@ Natülich, I found myself equal parts amused and perturbed; I decided the logica
 So I started repurposing some machines I have into what I'm calling NotVox NodBoxes. NotVox Itself is a 'distributed system' deisgned for remote-controlled Spotify playback _discreetly_ and with ludicrous parameters, i.e., with the express purpose of trolling.
 
 Each NodBox is just a fedora server 41 instance which,
-* runs a daemonized `spotifyd` service via `systemd`
-* My custom command executino system,  which I call `cue`
-
-### How it Works
-
-NotVox consists of three core components that interact via networked command execution:
-1. `cue-client` (user tui)
-   * primary CLI for users (me) to issue terse commands
-   * Dispatches commands to a specified/fallback NodBox from bare metal, ie, not a NodBox
-1. `cue-server` (command router and interpreter)
-   * listens for commands from `cue-client`
-   * interprets the command and translates down to an appropriate DBus or `spotifyd` command
-   * dispatches execution to `cue-exec`
-1. `cue-exec` (command executor)
-   * responsible for directly interfacing with `spotifyd`
-   * runs on the same machine as the `spotifyd` daemon for any requested box
-
-
-`cue` allows me to tersely run commands from my quotidian machines to have a NodBox do things like:
-
-* start 'playing' a {track,playlist,etc} on repeat for X {hours,days}
-* stop playback
-* switch tracks
-* and more
-
-using a straightforward syntax:
-```bash
-# on bare metal
-cue notvox-nomad start quiet "Leaving the Table" end-in 2D
-```
-This command:
-1. transmits the command over the network, here, specifically to `notvox-nomad`, which is my 'portable' NodBox.
-2. `cue-server` interprets and routes accordingly
-   - `start quiet` commands a NodBox to perform playback but silence it so that whoever is in the vicinity doesn't have to listen, lol.
-   - "Leaving the Table" is a song title.
-     - *note* human-readable titles must be mapped to hashes.
-   - `end-in 2D` tells notvox-nomad to keep playing this song on repeat for 2 days straight.
-4. `cue-exec` executes the action by issuing commands to spotifyd or Dbus
-5. All goes well, Leonard Cohen's _Leaving the Table_ will "play quietly" for 2 days straight unless I intervene.
-
-
-### Why Am I Now Publicking this?
-Up to you to interpret ;)  
-_Sapient sat._
+* ~~runs a daemonized `spotifyd` service via `systemd`~~
+  * auth troubles changed that plan
 
 ### nota bene; A poem:
 

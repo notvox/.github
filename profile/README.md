@@ -71,7 +71,7 @@ Each NodBox is just a fedora server 41 instance which,
 > The secrets of shuffle  
 > Are no friend of mine.
 
-- mfw
+-mfw
 
 
 
